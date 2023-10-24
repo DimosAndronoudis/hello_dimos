@@ -1,1 +1,1 @@
-print('hi malaka')
+print('hi')
